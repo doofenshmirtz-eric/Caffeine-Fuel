@@ -1,0 +1,187 @@
+<!-- menu section starts  -->
+
+<section class="menu" id="menu">
+   <h1 class="heading"></i>Hot Coffee</h1>
+   <div class="container box-container">
+     <div class="box">
+       <img src="./images/menu-1.png" alt="">
+       <h3>Spanish Latte</h3>
+       <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+       <a class="link-btn">68 Php</a>
+     </div>
+
+     <div class="box">
+       <img src="./images/menu-2.png" alt="">
+       <h3>Mocha Latte</h3>
+       <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+       <a class="link-btn">68 Php</a>
+     </div>
+   </div>
+<br>
+<br>
+   <h1 class="heading"></i>Iced Coffee</h1>
+   <div class="container box-container">
+      <div class="box">
+        <img src="./images/menu-3.png" alt="">
+        <h3>Caramel Macchiato</h3>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+        <a class="link-btn">108 Php</a>
+      </div>
+ 
+      <div class="box">
+        <img src="./images/menu-4.png" alt="">
+        <h3>Spanish Latte</h3>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+        <a class="link-btn">108 Php</a>
+      </div>
+      <div class="box">
+         <img src="./images/menu-2.png" alt="">
+         <h3>Hazelnut Latte</h3>
+         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+         <a class="link-btn">108 Php</a>
+       </div>
+ 
+       <div class="box">
+         <img src="./images/menu-2.png" alt="">
+         <h3>Salted Caramel</h3>
+         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+         <a class="link-btn">108 Php</a>
+       </div>
+ 
+       <div class="box">
+         <img src="./images/menu-2.png" alt="">
+         <h3>Strawberry Latte</h3>
+         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+         <a class="link-btn">108 Php</a>
+       </div>
+ 
+       <div class="box">
+         <img src="./images/menu-2.png" alt="">
+         <h3>White Mocha Latte</h3>
+         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+         <a class="link-btn">108 Php</a>
+       </div>
+    </div>
+    <br>
+    <br>
+    <br>
+    <br>
+    <h1 class="heading"></i>Non-Coffee</h1>
+
+    <div class="container box-container">
+      <div class="box">
+        <img src="./images/menu-1.png" alt="">
+        <h3>Milky Strawberry</h3>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+        <a class="link-btn">98 Php</a>
+      </div>
+ 
+      <div class="box">
+        <img src="./images/menu-2.png" alt="">
+        <h3>Strawberry Macha</h3>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+        <a class="link-btn">98 Php</a>
+      </div>
+    </div>
+    <br>
+    <div class="container box-container">
+      <div class="box">
+        <img src="./images/menu-1.png" alt="">
+        <h3>Chocolate Float</h3>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+        <a class="link-btn">98 Php</a>
+      </div>
+ 
+      <div class="box">
+        <img src="./images/menu-2.png" alt="">
+        <h3>Milky Matcha</h3>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+        <a class="link-btn">98 Php</a>
+      </div>
+    </div>
+    <br>
+    <br>
+    <br>
+    <br>
+    <h1 class="heading"></i>Frappe</h1>
+    <div class="container box-container">
+      <div class="box">
+        <img src="./images/menu-1.png" alt="">
+        <h3>Mango Graham</h3>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+        <a class="link-btn">108 Php</a>
+      </div>
+ 
+      <div class="box">
+        <img src="./images/menu-2.png" alt="">
+        <h3>Java Chip</h3>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+        <a class="link-btn">108 Php</a>
+      </div>
+    </div>
+    <br>
+    <div class="container box-container">
+      <div class="box">
+        <img src="./images/menu-1.png" alt="">
+        <h3>Vanilla Macha</h3>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+        <a class="link-btn">108 Php</a>
+      </div>
+ 
+      <div class="box">
+        <img src="./images/menu-2.png" alt="">
+        <h3>Strawberry</h3>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+        <a class="link-btn">108 Php</a>
+      </div>
+    </div>
+    <br>
+    <br>
+    <br>
+    <br>
+    <h1 class="heading"></i>Croffles</h1>
+   <div class="container box-container">
+      <div class="box">
+        <img src="./images/menu-1.png" alt="">
+        <h3>Plain</h3>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+        <a class="link-btn">98 Php</a>
+      </div>
+ 
+      <div class="box">
+        <img src="./images/menu-2.png" alt="">
+        <h3>Nutella</h3>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+        <a class="link-btn">98 Php</a>
+      </div>
+      <div class="box">
+         <img src="./images/menu-2.png" alt="">
+         <h3>Cookies and Cream</h3>
+         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+         <a class="link-btn">98 Php</a>
+       </div>
+ 
+       <div class="box">
+         <img src="./images/menu-2.png" alt="">
+         <h3>Creamy strawberry</h3>
+         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+         <a class="link-btn">98 Php</a>
+       </div>
+ 
+       <div class="box">
+         <img src="./images/menu-2.png" alt="">
+         <h3>Creamy Macha</h3>
+         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+         <a class="link-btn">98 Php</a>
+       </div>
+ 
+       <div class="box">
+         <img src="./images/menu-2.png" alt="">
+         <h3>Nutella Almond</h3>
+         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+         <a class="link-btn">98 Php</a>
+       </div>
+    </div>
+</section>
+
+<!-- menu section ends -->
